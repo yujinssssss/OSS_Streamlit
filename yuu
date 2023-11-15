@@ -1,0 +1,5 @@
+import streamlit as st
+
+#실습과제
+
+st.write("23114131 류유진")
