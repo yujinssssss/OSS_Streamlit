@@ -1,9 +1,8 @@
 import streamlit as st
 
-#OSS 중간 시험 결과
-OSS_Score = [80, 70, 55, 30, 3, 3, 1, 0]
+OSS_Score = [40, 506, 234, 59, 2, 4, 6,21]
 
-st.write("OSS 중간 시험 결과")
+st.write ("#23114131 류유진")
 
 OSS_Score
 
